@@ -22,6 +22,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd Ket
+    cd DashBoard-Ket
     yarn start
     ```
