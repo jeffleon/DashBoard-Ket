@@ -1,0 +1,19 @@
+.container-navbar{
+    background-color: #2b2d42;
+    grid-row: 1/-1;
+    display: grid;
+    margin-top: 20px;
+    justify-items: center;
+    grid-template-columns: 80px;
+    grid-template-rows: 50px repeat(3, 30px) 330px repeat(2, 30px);
+}
+
+
+.itemMessage{
+    grid-column: 1;
+    grid-row: 6;
+}
+.itemAvatar{
+    grid-column: 1;
+    grid-row: 7;
+}

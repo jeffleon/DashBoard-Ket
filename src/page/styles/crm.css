@@ -1,0 +1,7 @@
+.container-crm{
+    display: grid;
+    grid-template-columns: 80px auto 100px;
+    grid-template-rows: repeat(3, 33vh);
+    grid-auto-flow: row;
+    background: linear-gradient(90deg, #2b2d42 50%, #EAEAED 50%);
+}
